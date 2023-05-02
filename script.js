@@ -122,5 +122,5 @@ function draw() {
     ctx.fillStyle = "black";
     ctx.textAlign = "center";
     ctx.font = "40px Comic Sans MS";
-    ctx.fillText("Por: Arthur, Rodrigo, Luiz Foda, André, Lorenzo, e por ultimo e menos importante Pedro", cnv.width / 2, 40);
+    ctx.fillText("Por: Arthur, Rodrigo, Luiz H., Pedro, Lorenzo e André", cnv.width / 2, 40);
 }
